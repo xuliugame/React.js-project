@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2390e1ad.css","mappings":"AAAA,KAII,wBAAyB,CACzB,wCAA0C,CAH1C,aAAc,CADd,eAAgB,CAEhB,YAGJ","sources":["index.css"],"sourcesContent":["form {\r\n    max-width: 500px;\r\n    margin: 0 auto;\r\n    padding: 20px;\r\n    border: 5px solid #4db0d8;\r\n    box-shadow: 10px 10px 10px rgba(0,0,0,0.3);\r\n}"],"names":[],"sourceRoot":""}
